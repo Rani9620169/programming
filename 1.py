@@ -1,5 +1,8 @@
-#write a python program to take temperature in celsius from the user and convert it into Fahrenheit.
+1.#write a puthon program to take two inputs a and b, swaps their values using a temporary.
+a = int(input())
+b  =int(input())
+d = a
+a=b
+b = a
+print(f"After swapping the a is {a} and b is {b}")
 
-cal = int(input())
-fah = (cal*(9/5)+32)
-print(fah)
