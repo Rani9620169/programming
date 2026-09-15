@@ -1,4 +1,4 @@
-#5.take password
+#5.take password and check length, presence of @,and whether first and last characters are different.
 password = input("Enter a password:")
 
 length_ok = len(password) >=8
