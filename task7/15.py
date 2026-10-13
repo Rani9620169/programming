@@ -1,4 +1,4 @@
-#15.write a python to print a hollow square using stars.
+#15.write a python to print a hollow square using stars
 
 
 size = 5

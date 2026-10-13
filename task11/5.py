@@ -1,6 +1,6 @@
 #5.write a program to perform searching activity using linear and binary search.
 
-
+# linear Search
 def linear_search(arr, key):
     for i in range(len(arr)):
         if arr[i] == key:
