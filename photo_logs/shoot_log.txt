@@ -1,0 +1,11 @@
+Session 1, Photos: 320, Storage: 5.78 GB
+Session 2, Photos: 100, Storage: 1.95 GB
+Session 1, Photos: 320, Storage: 5.78 GB
+Session 2, Photos: 100, Storage: 1.95 GB
+rani|portrait|320|18.5|16.0|145
+rani|portrait|320|18.5|16.0|145
+rani|portrait|320|18.5|16.0|145
+rani|portrait|320|18.5|16.0|145
+rani|portrait|320|18.5|16.0|145
+rani|portrait|320|18.5|16.0|145
+rani|portrait|320|18.5|16.0|145
